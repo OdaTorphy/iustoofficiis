@@ -1,0 +1,23 @@
+{
+  "name": "iustoofficiis",
+  "version": "1.0.0",
+  "description": "JavaScript extra Types",
+  "main": "index.js",
+  "scripts": {
+    "example": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OdaTorphy/iustoofficiis.git"
+  },
+  "keywords": [
+    "quaerat",
+    "ut"
+  ],
+  "author": "IsacDicki",
+  "license": "MIT",
+  "homepage": "https://github.com/OdaTorphy/iustoofficiis.git",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
